@@ -1,3 +1,8 @@
+# Hanran's Portfolio
+
+* template adopted from https://github.com/codewithsadee/vcard-personal-portfolio.
+* See below for readme from template
+
 # vCard - Personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
